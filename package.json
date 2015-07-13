@@ -1,0 +1,30 @@
+{
+  "name": "form-session",
+  "version": "0.1.1",
+  "description": "Form Session helps you to maintain values in forms when there's an error",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/luiselizondo/form-session"
+  },
+  "keywords": [
+    "session",
+    "form",
+    "redis",
+    "passport",
+    "forms"
+  ],
+  "dependencies": {
+    "lodash": "~2.4.1",
+    "redis": "^0.12.1"
+  },
+  "author": "Luis Elizondo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luiselizondo/form-session/issues"
+  },
+  "homepage": "https://github.com/luiselizondo/form-session"
+}
